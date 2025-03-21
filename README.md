@@ -1,3 +1,4 @@
 # repo-demo
-first demo repository
-made the first edit in git
+first demo repository.
+<br>
+made the first edit in git.
